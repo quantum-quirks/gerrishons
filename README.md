@@ -38,18 +38,5 @@ I am Gerrishon, people call me Gerry. I currently working on Quo a command line 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=code-plug&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
-
-
-
-
-
-- 🔭 I’m currently working on Quo, a command line toolkit and Rakish, a web framework. 
-- 🌱 I’m currently learning rust
-- 👯 I’m looking to collaborate on python
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-plug&hide=TeX&layout=compact)
 

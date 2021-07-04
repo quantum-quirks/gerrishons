@@ -19,7 +19,7 @@
 I`m a Data Analyst, Chemical Engineer, and a Software developer. My interests range from programming to Data Science. I'm interested in Python programming, Rust programming and Machine learning.
 
 - :hammer_and_pick: Python / Cython / Shell / Git / Rust
-- :package: Building :fire: [quo](https://pypi/projects/quo) :fire:, [debonair](https://github.com/secretum-inc/debonair), [sashay](https://github.com/secretum-inc/sashay), [torch_stoi](https://github.com/asteroid-team/pytorch_stoi), [torch-audiomentations](https://github.com/asteroid-team/torch-audiomentations) and more
+- :package: Building :fire: [quo](https://pypi/projects/quo) :fire: [debonair](https://github.com/secretum-inc/debonair) :fire: [sashay](https://github.com/secretum-inc/sashay) and more
 - :dart: One code at a time
 
 ----

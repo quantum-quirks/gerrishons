@@ -1,31 +1,27 @@
-
-[![Linkedin Badge](https://img.shields.io/badge/-gerrishon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerrishon/)](https://www.linkedin.com/in/gerrishon/)
 [![Instagram Badge](https://img.shields.io/badge/-gerrishon.s-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/gerrishon.s/)](https://instagram.com/gerrishon.s)
 [![Medium Badge](https://img.shields.io/badge/-@gerrishon-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@gerrishon/)](https://medium.com/@gerrishon)
 [![Gmail Badge](https://img.shields.io/badge/-secretum.inc@pm.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:secretum.inc@pm.me)](mailto:secretum.inc@pm.me)
 
 <br>
 <p align="center">
-<img width="100%" src="/c.svg"/>
 </p>
 <div align="center">
 <h2>Hey 👋, I'm Gerrishon Sirere</h2>
 
-[<img align="center" alt="Manuel Pariente | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="center" alt="Manuel Pariente | Twitter" height="40px" src="https://user-images.githubusercontent.com/18496796/107147301-8e8dfb80-694d-11eb-9fc6-f935c1754cd9.png"/>][twitter]
-[<img align="center" alt="Manuel Pariente | Twitter" height="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Feducation.usm.my%2Fimages%2FGoogle-Scholar-logo.png&f=1&nofb=1"/>][scholar]
+[<img align="center" alt="Gerrishon Sirere | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="center" alt="Gerrishon Sirere | Twitter" height="40px" src="https://user-images.githubusercontent.com/18496796/107147301-8e8dfb80-694d-11eb-9fc6-f935c1754cd9.png"/>][twitter]
+[<img align="center" alt="Gerrishon Sirere | Scholar" height="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Feducation.usm.my%2Fimages%2FGoogle-Scholar-logo.png&f=1&nofb=1"/>][scholar]
 
 
 </div>
 
 ----
-
-I'm a PhD student 🎓 in INRIA Nancy, France :fr: and soon-to-be entrepreneur! :bulb:
+I`m a Data Analyst, Chemical Engineer, and Software developer. My interests range from programming to Data Science. I am also interested in Python programming, Rust programming and Machine learning.
 
 - :hammer_and_pick: Python / Cython / Bash / Git / LaTeX / Markdown :hammer_and_pick:
-- :package: Building :fire: [asteroid](https://github.com/asteroid-team/asteroid) :fire:, [asteroid-filterbanks](https://github.com/asteroid-team/asteroid-filterbanks), [pystoi](https://github.com/mpariente/pystoi), [torch_stoi](https://github.com/asteroid-team/pytorch_stoi), [torch-audiomentations](https://github.com/asteroid-team/torch-audiomentations) and more :package:
-- :pencil2: Linux & Bash & PyCharm & VSCode & TiddlyWiki :pencil2:
-- :dart: Efficiency at work :dart:
+- :package: Building :fire: [quo](https://pypi/projects/quo) :fire:, [debonair](https://github.com/secretum-inc/debonair), [sashay](https://github.com/secretum-inc/sashay), [torch_stoi](https://github.com/asteroid-team/pytorch_stoi), [torch-audiomentations](https://github.com/asteroid-team/torch-audiomentations) and more :package:
+- :pencil2: Linux, Shell, Python & Rust :pencil2:
+- :dart: One code at a time:dart:
 
 **Tools and Libs:**  
 
@@ -42,7 +38,7 @@ I'm a PhD student 🎓 in INRIA Nancy, France :fr: and soon-to-be entrepreneur! 
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=gerrishon-s&count_private=true&theme=great-gatsby&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=gerrishons&count_private=true&theme=great-gatsby&show_icons=true)
 
 </div>
 

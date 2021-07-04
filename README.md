@@ -16,28 +16,15 @@
 </div>
 
 ----
-I`m a Data Analyst, Chemical Engineer, and Software developer. My interests range from programming to Data Science. I am also interested in Python programming, Rust programming and Machine learning.
+I`m a Data Analyst, Chemical Engineer, and a Software developer. My interests range from programming to Data Science. I'm interested in Python programming, Rust programming and Machine learning.
 
-- :hammer_and_pick: Python / Cython / Bash / Git / LaTeX / Markdown :hammer_and_pick:
-- :package: Building :fire: [quo](https://pypi/projects/quo) :fire:, [debonair](https://github.com/secretum-inc/debonair), [sashay](https://github.com/secretum-inc/sashay), [torch_stoi](https://github.com/asteroid-team/pytorch_stoi), [torch-audiomentations](https://github.com/asteroid-team/torch-audiomentations) and more :package:
-- :pencil2: Linux, Shell, Python & Rust :pencil2:
-- :dart: One code at a time:dart:
-
-**Tools and Libs:**  
-
-<code><img height="30px" src="https://pytorch.org/assets/images/logo-icon.svg"></code>
-<code><img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/180px-Keras_logo.svg.png"></code>
-<code><img height="30px" src="https://numpy.org/images/logos/numpy.svg"></code>
-<code><img height="30px" src="https://raw.githubusercontent.com/pandas-dev/pandas/master/web/pandas/static/img/pandas_mark.svg"></code>
-<code><img height="30px" src="https://raw.githubusercontent.com/PyTorchLightning/pytorch-lightning/master/docs/source/_static/images/icon.svg"></code>
-<code><img height="30px" src="https://raw.githubusercontent.com/asteroid-team/asteroid-team.github.io/master/logos/asteroid_phones_dark.svg"></code>
+- :hammer_and_pick: Python / Cython / Shell / Git / Rust
+- :package: Building :fire: [quo](https://pypi/projects/quo) :fire:, [debonair](https://github.com/secretum-inc/debonair), [sashay](https://github.com/secretum-inc/sashay), [torch_stoi](https://github.com/asteroid-team/pytorch_stoi), [torch-audiomentations](https://github.com/asteroid-team/torch-audiomentations) and more
+- :dart: One code at a time
 
 ----
 
  
-
-
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gerrishons&count_private=true&theme=great-gatsby&show_icons=true)
 
 </div>

@@ -1,7 +1,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-gerrishon.s-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/gerrishon.s/)](https://instagram.com/gerrishon.s)
 [![Medium Badge](https://img.shields.io/badge/-@gerrishon-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@gerrishon/)](https://medium.com/@gerrishon)
 [![Gmail Badge](https://img.shields.io/badge/-secretum.inc@pm.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:secretum.inc@pm.me)](mailto:secretum.inc@pm.me)
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G35C0Z0)
 <br>
 <p align="center">
 </p>

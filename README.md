@@ -20,7 +20,6 @@ I`m a Data Analyst, Chemical Engineer, and a Software developer. My interests ra
 
 - :hammer_and_pick: Python / Cython / Shell / Git / Rust
 - :package: Building :fire: [quo](https://pypi/projects/quo) :fire: [debonair](https://github.com/secretum-inc/debonair) :fire: [sashay](https://github.com/secretum-inc/sashay) and more
-- :dart: One code at a time
 
 ----
 

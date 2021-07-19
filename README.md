@@ -10,7 +10,6 @@
 
 [<img align="center" alt="Gerrishon Sirere | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 [<img align="center" alt="Gerrishon Sirere | Twitter" height="40px" src="https://user-images.githubusercontent.com/18496796/107147301-8e8dfb80-694d-11eb-9fc6-f935c1754cd9.png"/>][twitter]
-[<img align="center" alt="Gerrishon Sirere | Scholar" height="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Feducation.usm.my%2Fimages%2FGoogle-Scholar-logo.png&f=1&nofb=1"/>][scholar]
 
 
 </div>
@@ -30,4 +29,3 @@ I`m a Data Analyst, Chemical Engineer, and a Software developer. My interests ra
 
 [linkedin]: https://www.linkedin.com/in/gerrishon/
 [twitter]: https://twitter.com/gerrishon_s
-[scholar]: https://scholar.google.fr/citations?user=V1TsIH4AAAAJ&hl=en

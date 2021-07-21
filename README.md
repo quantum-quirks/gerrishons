@@ -91,4 +91,3 @@ I`m a Data Analyst, Chemical Engineer, and a Software developer. My interests ra
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gerrishons&theme=prussian&hide_border=true)](https://git.io/streak-stats)
    <br />
    <br />
-   ![Skyline](https://github.com/ShreyaPrasad1209/ShreyaPrasad1209/blob/master/github-metrics.svg)

@@ -25,11 +25,7 @@
 [twitter]: https://twitter.com/gerrishon_s
 
 
-
-
-
-
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="150px" width="150px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="150px" width="150px"> </p>
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="150px" width="150px"> </p>
 
    
    ## :wave: About Me 

@@ -15,10 +15,6 @@
 </div>
 
 ----
-I`m a Data Analyst, Chemical Engineer, and a Software developer. My interests range from programming to Data Science. I'm interested in Python programming, Rust programming and Machine learning.
-
-- :hammer_and_pick: Python / Cython / Shell / Git / Rust
-- :package: Building :fire: [quo](https://pypi/projects/quo) :fire: [debonair](https://github.com/secretum-inc/debonair) :fire: [sashay](https://github.com/secretum-inc/sashay) and more
 
 ----
 
@@ -43,17 +39,10 @@ I`m a Data Analyst, Chemical Engineer, and a Software developer. My interests ra
 
 👩‍🎓 Hey! I'm Gerrishon,
 
-:octocat: I have a soft spot for technology and communities 💖 I am a [**GitHub Campus Expert**](https://githubcampus.expert/gerrishons/) and also a part of [**GitHub Education Stream Team**](https://github.blog/2021-03-25-introducing-the-github-education-stream-team/) :octocat:! 
+- I`m a Data Analyst, Chemical Engineer, and a Software developer. My interests range from programming to Data Science. I'm interested in Python programming, Rust programming and Machine learning.
 
-💖 I’m contributing to [**CircuitVerse**](https://github.com/CircuitVerse) as a front-end developer and project manager. 
-
-👩‍💻 Nowadays, I’m learning Angular and Spring Boot. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/shreyapd06/) and always up for quick coding brainstorming sessions! 
-
-🔥  I am an open source and D&I advocate with side hustles as Product Management and Developer Relations roles. 
-
-⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
-
-✍🏻 I regularly write technical blogs - [Dev.to](https://dev.to/shreyapd06). Currently creating a blog series to simplify Angular concepts! 
+- :hammer_and_pick: Python / Cython / Shell / Git / Rust
+- :package: Building :fire: [quo](https://pypi/projects/quo) :fire: [debonair](https://github.com/secretum-inc/debonair) :fire: [sashay](https://github.com/secretum-inc/sashay) and more
 
 <br> 
 

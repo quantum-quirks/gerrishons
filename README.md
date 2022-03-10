@@ -32,9 +32,9 @@
 
 👩‍🎓 Hey! I'm Gerrishon,
 
-- I`m a Data Analyst, Chemical Engineer, and a Software developer. My interests range from programming to Data Science. I'm interested in Python programming, Rust programming and Machine learning.
+- I`m a Data Analyst, Engineer, and a Software developer. My interests range from programming to Data Science. I'm interested in Python programming, Go programming and C++ programming.
 
-- :hammer_and_pick: Python / Cython / Shell / Git / Rust
+- :hammer_and_pick: Python / Cython / Shell / Git / Go
 - :package: Building :fire: [quo](https://pypi/projects/quo) :fire: [debonair](https://github.com/secretum-inc/debonair) :fire: [sashay](https://github.com/secretum-inc/sashay) and more
 
 <br> 
